@@ -21,6 +21,8 @@ This project is implemented in a number of notebooks:
 There are 3 datasets used in this project:
 
 1- Baseline / Original dataset used by the paper: https://www.kaggle.com/datasets/gpreda/all-covid19-vaccines-tweets
+
 2- 10K manually labelled dataset: https://www.kaggle.com/datasets/trinhngocphap/covid19-vaccine-tweets-sentiment-10k
+
 3- 6k labelled dataset: https://www.kaggle.com/datasets/datasciencetool/covid19-vaccine-tweets-with-sentiment-annotation
  
